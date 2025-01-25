@@ -218,18 +218,18 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 #### **Certificações Professional**
 
-- [AWS Certified Solutions Architect - Professional (SAP-C03)](certificacao/SAP-C03)
+- [AWS Certified Solutions Architect (SAP-C03)](certificacao/SAP-C03)
 
-- [AWS Certified DevOps Engineer - Professional (DOP-C02)](certificacao/DOP-C02)
+- [AWS Certified DevOps Engineer (DOP-C02)](certificacao/DOP-C02)
 
 
 #### **Certificações Specialty**
 
-- [AWS Certified Advanced Networking - Specialty (ANS-C01)](certificacoes/ANS-C01)
+- [AWS Certified Advanced Networking (ANS-C01)](certificacoes/ANS-C01)
 
-- [AWS Certified Machine Learning - Specialty (MLS-C01)](certificacoes/MLS-C01)
+- [AWS Certified Machine Learning (MLS-C01)](certificacoes/MLS-C01)
 
-- [AWS Certified Security - Specialty (SCS-C02)](certificacoes/SCS-C02)
+- [AWS Certified Security (SCS-C02)](certificacoes/SCS-C02)
 
 
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
