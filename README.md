@@ -4,8 +4,9 @@
 <p align="center">Seja você um novo membro da comunidade AWS, um desenvolvedor ou engenheiro de nuvem em busca de um hub centralizado de recursos sobre AWS, este repositório é para você. Ele reúne projetos reais, materiais de certificação, documentação de serviços AWS e insights de arquitetura. Considere este repositório como seu ponto de referência para aprender e aplicar conhecimentos em AWS. 🔥</p>
 
 <p align="center">
-<a href="https://github.com/devopsbrhub/AWSHub/commits/main"><img alt="Último Commit" src="https://img.shields.io/github/last-commit/devopsbrhub/AWSHub/main" /></a>
-<a href="https://github.com/devopsbrhub/AWSHub/stargazers"><img alt="Estrelas do Repositório" src="https://img.shields.io/github/stars/devopsbrhub/AWSHub"/></a>
+<a href="https://github.com/devopsbrhub/AWSHub/commits/main"><img alt="Commit" src="https://img.shields.io/github/last-commit/devopsbrhub/AWSHub/main" /></a>
+<a href="https://github.com/devopsbrhub/AWSHub/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/devopsbrhub/AWSHub" /></a>
+<a href="https://github.com/devopsbrhub/AWSHub/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/devopsbrhub/AWSHub?label=forks" /></a>
 </p>
 
 ## Começando 🚀
