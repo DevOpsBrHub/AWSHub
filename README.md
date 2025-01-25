@@ -1,4 +1,4 @@
-<h1 align="center">AWS Hub ☁️</h1>
+<h1 align="center">AWS Hub <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="50"></h1>
 
 <p align="center">Bem-vindo ao repositório AWS Hub 👋</p>
 <p align="center">Seja você um novo membro da comunidade AWS, um desenvolvedor ou engenheiro de nuvem em busca de um hub centralizado de recursos sobre AWS, este repositório é para você. Ele reúne projetos reais, materiais de certificação, documentação de serviços AWS e insights de arquitetura. Considere este repositório como seu ponto de referência para aprender e aplicar conhecimentos em AWS. 🔥</p>
